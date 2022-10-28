@@ -5,6 +5,7 @@ We have to write the logic here.
 We will be receiving the string as input.
 if it is 1 -> it is occupied and if it is 0 -> it is not occupied.
 Our aim is to return the maximum number of urinals available for the next person.
+We can also read input from file 
 
 
 Create a file - UrinalsTest.java.
